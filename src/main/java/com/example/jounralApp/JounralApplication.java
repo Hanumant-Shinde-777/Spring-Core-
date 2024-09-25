@@ -11,4 +11,4 @@ public class JounralApplication {
 	}
 
 }
-//Creating rest api using boot
+//Creating rest api using boot11.22
